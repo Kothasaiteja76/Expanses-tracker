@@ -6,7 +6,7 @@ Data is stored locally in a JSON file.
 ---
 
 # Expense Tracker
- the simple solution of give [Expense Tracker](https://roadmap.sh/projects/Expense-Tracker) from the[roadmap.sh](https://roadmap.sh/)
+ the simple solution of give [Expense Tracker](https://roadmap.sh/projects/expense-tracker) from the[roadmap.sh](https://roadmap.sh/)
 
 
 ---
