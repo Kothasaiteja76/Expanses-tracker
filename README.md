@@ -4,8 +4,10 @@ A simple command-line application built with Node.js to manage personal expenses
 Data is stored locally in a JSON file.
 
 ---
+
 # Expense Tracker
  the simple solution of give [Expense Tracker](https://roadmap.sh/projects/Expense-Tracker) from the[roadmap.sh](https://roadmap.sh/)
+
 
 ---
 
